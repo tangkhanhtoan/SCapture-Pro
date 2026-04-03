@@ -40,15 +40,15 @@ Hướng dẫn sử dụng SCapture Pro 4.4
 
 
 
-| Phím tắt       | Chức năng                    | Function                  |
+| Phím tắt            | Chức năng                    | Function                  |
 
-|----------------|------------------------------|---------------------------|
+|---------------------|------------------------------|---------------------------|
 
-| ESC            | Minimize chương trình        | Minimize window           |
+| ESC                 | Minimize chương trình        | Minimize window           |
 
-| ESC (khi đang chụp) | Thoát chế độ chụp           | Cancel snipping           |
+| ESC (khi đang chụp) | Thoát chế độ chụp            | Cancel snipping           |
 
-| Ctrl + C       | Sao chép (sau khi chụp)      | Copy result               |
+| Ctrl + C            | Sao chép (sau khi chụp)      | Copy result               |
 
 
 
