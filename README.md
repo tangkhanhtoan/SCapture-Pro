@@ -32,7 +32,7 @@ Chạy trực tiếp trên **Windows** — *không cần cài đặt.*
 ### 📥 Download / *Tải về*
 **Latest version 4.4** (April 2026)
 
-- **Windows**: [SCapture-Pro-4.4.exe](https://github.com/tangkhanhtoan/SCapture-Pro/releases/SCapture-Pro-4.4.exe)
+- **Windows**: [SCapture-Pro-4.4.exe]
 
 **All releases** → [Releases](https://github.com/tangkhanhtoan/SCapture-Pro/releases/)
 
