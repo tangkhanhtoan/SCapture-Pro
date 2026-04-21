@@ -34,7 +34,7 @@ Chạy trực tiếp trên **Windows** — *không cần cài đặt.*
 
 - **Windows**: [SCapture-Pro-4.4.exe](https://github.com/tangkhanhtoan/SCapture-Pro/releases/SCapture-Pro-4.4.exe)
 
-**All releases** → [Releases](https://github.com/tangkhanhtoan/SCapture-Pro/releases/)
+**All releases** → [Releases]([https://github.com/tangkhanhtoan/SCapture-Pro/releases/](https://github.com/tangkhanhtoan/SCapture-Pro/releases))
 
 ### 📖 How to use / *Hướng dẫn sử dụng*
 1. Run `SCapture Pro.exe`
