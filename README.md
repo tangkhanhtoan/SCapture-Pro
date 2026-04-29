@@ -52,8 +52,8 @@ Chạy trực tiếp trên **Windows** — *không cần cài đặt.*
 ### 🔑 License & Purchase / *License & Mua bản Full*
 - **Trial**: 14 days free (automatically activated on first run)
   *Trial: 14 ngày sử dụng miễn phí (tự động kích hoạt khi chạy lần đầu)*
-- **Full Version**: Lifetime, no limit, no ads – **Contact for price**
-  *Bản Full: Vĩnh viễn, không giới hạn, không quảng cáo – Liên hệ để biết giá*
+- **Full Version**: Lifetime, no limit, no ads – **99.000 VNĐ** (one-time payment)
+  *Bản Full: Vĩnh viễn, không giới hạn, không quảng cáo – **99.000 VNĐ** (one-time payment)
 
 **How to buy and activate:**
 *Cách mua và kích hoạt:*
